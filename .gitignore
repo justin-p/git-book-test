@@ -16,4 +16,5 @@ _book
 *.pdf
 
 
-external/*/.git
+external/Awesome-Asset-Discovery/.git
+external/Awesome-Asset-Discovery/.github
