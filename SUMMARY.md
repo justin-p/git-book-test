@@ -44,6 +44,14 @@
     - [assert]()
     - [simple_shell]()
 - [powershell]()
+- [python]()
+    - [Blackhat-Python]()
+        - [ch2]()
+            - [paramiko-master]()
+                - [demos]()
+        - [ch3]()
+        - [ch4]()
+    - [random]()
 
 ## ctf
 
@@ -51,15 +59,11 @@
     - [Bandit](ctf/OTW/Bandit.md)
     - [Natas](ctf/OTW/Natas.md)
 
-## python
+## external
 
-- [Blackhat-Python]()
-    - [ch2]()
-        - [paramiko-master]()
-            - [demos]()
-    - [ch3]()
-    - [ch4]()
-- [random]()
+- [Awesome-Asset-Discovery](external/Awesome-Asset-Discovery/README.md)
+
+    - [License.md](external/Awesome-Asset-Discovery/License.md)
 
 ## sql
 
