@@ -1,8 +1,6 @@
-# Table of contents
-
-* [Initial page](README.md)
 
 ## cheatsheets
+
 - [ASCII Table](cheatsheets/ascii-table.md)
 - [AWK](cheatsheets/awk.md)
 - [base64](cheatsheets/base64.md)
@@ -24,10 +22,10 @@
 - [MySQL Injection](cheatsheets/mysql-hacking.md)
 - [MySQL](cheatsheets/mysql.md)
 - [nc](cheatsheets/nc.md)
+- [openssl-s-client](cheatsheets/openssl-s-client.md)
 - [openssl](cheatsheets/openssl.md)
 - [Random stuff](cheatsheets/random.md)
 - [rev](cheatsheets/rev.md)
-- [s](cheatsheets/s-client.md)
 - [scp](cheatsheets/scp.md)
 - [Sed](cheatsheets/sed.md)
 - [sort](cheatsheets/sort.md)

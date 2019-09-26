@@ -1,4 +1,4 @@
-# s_client
+# openssl-s-client
 
 ## Check an SSL connection
 
