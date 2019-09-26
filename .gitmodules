@@ -1,0 +1,3 @@
+[submodule ".\\external\\Awesome-Asset-Discovery"]
+	path = .\\external\\Awesome-Asset-Discovery
+	url = https://github.com/redhuntlabs/Awesome-Asset-Discovery
