@@ -37,3 +37,30 @@
 - [Uniq](cheatsheets/uniq.md)
 - [xxd](cheatsheets/xxd.md)
 - [zcat](cheatsheets/zcat.md)
+
+## code
+
+- [php]()
+    - [assert]()
+    - [simple_shell]()
+- [powershell]()
+
+## ctf
+
+- [OTW]()
+    - [Bandit](ctf/OTW/Bandit.md)
+    - [Natas](ctf/OTW/Natas.md)
+
+## python
+
+- [Blackhat-Python]()
+    - [ch2]()
+        - [paramiko-master]()
+            - [demos]()
+    - [ch3]()
+    - [ch4]()
+- [random]()
+
+## sql
+
+- [sql.md](sql/sql.md)
