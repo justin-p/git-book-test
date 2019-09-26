@@ -61,10 +61,4 @@
 
 ## external
 
-- [Awesome-Asset-Discovery](external/Awesome-Asset-Discovery/README.md)
-
-    - [License.md](external/Awesome-Asset-Discovery/License.md)
-
-## sql
-
-- [sql.md](sql/sql.md)
+- [links](external/links/README.md)
